@@ -1,0 +1,6 @@
+> frequencies
+<<DocumentTermMatrix (documents: 9586, terms: 18208)>>
+Non-/sparse entries: 189462/174352426
+Sparsity           : 100%
+Maximal term length: 100
+Weighting          : term frequency (tf)
